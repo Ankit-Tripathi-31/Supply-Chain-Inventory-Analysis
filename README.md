@@ -2,6 +2,12 @@
 
 An end-to-end data analytics project focused on analyzing product sales, inventory levels, supplier profitability, warehouse stock distribution, and shipping performance using Python and Microsoft Power BI.
 
+## Dashboard Preview
+
+The Power BI dashboard provides an interactive overview of supply chain and inventory performance, including sales volume, recorded stock, estimated gross profit, shipping duration, and low-stock records.
+
+![Supply Chain & Inventory Analysis Power BI Dashboard](reports/Supply_Chain.png)
+
 ## Project Overview
 
 Effective supply chain management requires businesses to maintain appropriate inventory levels, monitor supplier performance, understand product demand, and evaluate shipping efficiency.
@@ -332,3 +338,5 @@ The resulting dashboard provides visibility into product sales, recorded invento
 **Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, Microsoft Power BI
 
 **Portfolio:** Add your GitHub repository and LinkedIn profile links here.
+
+
