@@ -7,7 +7,6 @@ An end-to-end data analytics project focused on analyzing product sales, invento
 The Power BI dashboard provides an interactive overview of supply chain and inventory performance, including sales volume, recorded stock, estimated gross profit, shipping duration, and low-stock records.
 
 ![Supply Chain & Inventory Analysis Power BI Dashboard](reports/Supply_Chain.png)
-
 ## Project Overview
 
 Effective supply chain management requires businesses to maintain appropriate inventory levels, monitor supplier performance, understand product demand, and evaluate shipping efficiency.
